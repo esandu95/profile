@@ -7,6 +7,7 @@ body {
   min-height: 95vh;
 }
 
+
 span{
   color:#cc334f;
 }
@@ -37,8 +38,8 @@ h1,h2{
 
   img{
     width: 80%;
+   
   }
-
 }
 
 @media(max-width:600px){
@@ -51,8 +52,8 @@ h1,h2{
 }
 
 .logo{
-width: 40%
-}
+  width: 150px;
+  }
 
 footer {
   text-align: right;
