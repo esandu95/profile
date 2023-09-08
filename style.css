@@ -7,10 +7,6 @@ body {
   min-height: 95vh;
 }
 
-.logo{
-width: 150px;
-}
-
 span{
   color:#cc334f;
 }
@@ -52,6 +48,10 @@ h1,h2{
   h1{
     font-size: 3rem;
   }
+}
+
+.logo{
+width: 150px;
 }
 
 footer {
